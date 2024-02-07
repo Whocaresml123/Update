@@ -3,7 +3,7 @@
   "Title": "New Skin Available",
   "Description": "W Tools recommends update the Latest Version. New skin/fixed some skins and android 12+ fixed.",
   "MainTextButton": "Update",
-  "Cancelable": "true",
+  "Cancelable": "false",
   "CancelButtonText": "Later",
   "DownloadLink": "https://play.google.com/store/apps/details?id=com.whocarestools.app",
   "Version": "1.16"
