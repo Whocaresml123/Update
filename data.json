@@ -1,10 +1,10 @@
 {
   "Visibility": "DISABLE",
   "Title": "New Skin Available",
-  "Description": "W Tools recommends update the Latest Version. New skin/fixed some skins and android 12+ fixed.",
+  "Description": "W Tools recommends update the Latest Version. Fix skins and added anime skins.",
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Later",
   "DownloadLink": "https://play.google.com/store/apps/details?id=com.whocarestools.app",
-  "Version": "1.19"
+  "Version": "1.20"
 }
