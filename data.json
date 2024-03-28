@@ -1,7 +1,7 @@
 {
-  "Visibility": "DISABLE",
+  "Visibility": "VISIBLE",
   "Title": "New Skin Available",
-  "Description": "W Tools recommends update the Latest Version. Fix skins/revamped and added Anime and Recall.",
+  "Description": "W Tools recommends to update added new skin/fixed and added recall/emote/elimination/spawn/trail effect.",
   "MainTextButton": "Update",
   "Cancelable": "false",
   "CancelButtonText": "Later",
