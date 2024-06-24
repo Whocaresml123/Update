@@ -1,10 +1,10 @@
 {
-  "Visibility": "DISABLE",
+  "Visibility": "VISIBLE",
   "Title": "New Skin Available",
-  "Description": "W Tools recommends to update added new EXORCIST and KOF SKIN.",
+  "Description": "W Tools recommends to update added NEW SKINS and FIXED SOME SKIN.",
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Later",
   "DownloadLink": "https://play.google.com/store/apps/details?id=com.whocarestools.app",
-  "Version": "1.29"
+  "Version": "1.30"
 }
