@@ -2,9 +2,9 @@
   "Visibility": "VISIBLE",
   "Title": "New Skin Available",
   "Description": "W Tools New update! Added new skins and fixed some skins.",
-  "MainTextButton": "Update",
-  "Cancelable": "false",
-  "CancelButtonText": "Cancel",
+  "MainTextButton": "UPDATE",
+  "Cancelable": "true",
+  "CancelButtonText": "CANCEL",
   "DownloadLink": "https://play.google.com/store/apps/details?id=com.whocarestools.app",
   "Version": "1.33"
 }
